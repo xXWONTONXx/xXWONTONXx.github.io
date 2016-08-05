@@ -1,0 +1,96 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0%;
+  color: navy;
+}
+
+header {
+  background-color: white;
+  position: fixed;
+  width: 100%;
+}
+
+#narutoicon {
+  height: 75px; 
+  display: inline-block;
+}
+
+#name {
+  display: inline-block;
+  position: relative;
+  bottom: 25px
+
+}
+
+.navbar {
+  text-decoration: none;
+}
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+  float:right;
+}
+
+li {
+  display: inline-block;
+  position: relative;
+  top:20px;
+  margin-right: 50px;
+}
+
+#title {
+  background-image: url(Design/tree.jpg);
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#title h1 {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 110px;
+  font-size: 75px;
+}
+
+#content {
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(185, 208, 230, 0.18);
+  line-height: 30px;
+  display: inline-block;
+}
+
+#bottem {
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: rgba(51, 126, 198, 0.28);
+  display: inline-block;
+  width: 100%;
+}
+
+#bottem a {
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+A:hover {
+  text-decoration: underline overline; color: navy;
+}
+
+header a {
+  color: #545454;
+}
+
+p {
+  color: #545454;
+}
+
+#bottem a {
+  color: #08526d;
+}
