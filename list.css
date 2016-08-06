@@ -66,6 +66,8 @@ li {
 }
 
 #bottem {
+  margin-right: 10px;
+  margin-left: 10px;
   background-color: rgba(51, 126, 198, 0.28);
   display: inline-block;
   width: 100%;
@@ -73,6 +75,7 @@ li {
 
 
 #bottem a {
+  text-decoration: none;
   display: inline-block;
   margin-right: 10px;
   margin-bottom: 10px;
