@@ -70,6 +70,7 @@ li {
   background-color: rgba(51, 126, 198, 0.28);
   display: inline-block;
   width: 100%;
+  background-size: cover;
 }
 
 #bottem a {
@@ -92,4 +93,17 @@ p {
 
 #bottem a {
   color: #08526d;
+}
+
+#info {
+  float: right;
+  display: inline-block;
+}
+
+#made {
+  display: inline-block;
+}
+
+#da {
+  display: inline;
 }

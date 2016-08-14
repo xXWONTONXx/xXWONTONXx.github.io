@@ -123,3 +123,16 @@ p {
 #bottem a {
   color: #08526d;
 }
+
+#info {
+  float: right;
+  display: inline-block;
+}
+
+#made {
+  display: inline-block;
+}
+
+#da {
+  display: inline;
+}
